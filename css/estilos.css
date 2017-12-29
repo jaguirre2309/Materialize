@@ -1,0 +1,12 @@
+.cabecera{
+	min-height: 4rem;
+}
+
+div[class*="columna"]{
+	min-height: 50rem;
+	border: 1px solid gray;
+}
+
+div[class*="actividad"]{
+	min-height: 25rem;
+}
