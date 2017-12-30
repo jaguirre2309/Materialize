@@ -4,9 +4,34 @@
 
 div[class*="columna"]{
 	min-height: 50rem;
-	border: 1px solid gray;
 }
 
 div[class*="actividad"]{
 	min-height: 25rem;
+	padding: 0px !important;
+}
+
+div[class*="contenedor1"]{
+	min-height: 7rem;
+}
+
+div[class*="contenedor2"]{
+	min-height: 17rem;
+	padding: 2rem;
+}
+
+.logo{
+	width: 3rem;
+	margin-top: .5rem;
+}
+
+.contenedor-not{
+	min-height: 50rem;
+	padding: .5rem;
+	margin-top: 1rem;
+}
+
+.imgNot{
+	border: 0.6rem solid indigo;
+	border-radius: 5px;
 }
